@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        
+        // Integrantes: Martínez Dámaso Raúl Eduardo
         System.out.println("PRUEBA DE MÉTODOS\n");
 
         // Pixeles de prueba:
